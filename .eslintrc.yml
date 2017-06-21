@@ -1,0 +1,7 @@
+---
+env:
+  jest: true
+extends:
+  - "./configs/base.js"
+  - "./configs/es.js"
+  - "./configs/node.js"
