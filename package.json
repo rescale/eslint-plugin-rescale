@@ -13,7 +13,8 @@
   "private": true,
   "dependencies": {
     "eslint-plugin-react": "^7.1.0",
-    "eslint-plugin-sort-requires": "^2.1.0"
+    "eslint-plugin-sort-requires": "^2.1.0",
+    "lodash": "^4.17.4"
   },
   "devDependencies": {
     "eslint": "4.0.0",
