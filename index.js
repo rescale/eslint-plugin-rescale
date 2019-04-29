@@ -4,6 +4,7 @@ exports.configs = {
   es: require('./configs/es'),
   node: require('./configs/node'),
   react: require('./configs/react'),
+  ts: require('./configs/ts'),
 };
 
 exports.rules = {
